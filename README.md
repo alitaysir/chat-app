@@ -1,7 +1,9 @@
-```markdown
+
 # Real-Time Chat Application
 
-This project is a real-time chat application built using **React.js** and **Firebase**. It enables messaging, image sharing, user profile management, and real-time updates. The application is user-friendly and scalable, offering seamless interaction with a responsive design.
+This project is a real-time chat application built using **React.js** and **Firebase**.
+It enables messaging, image sharing, user profile management, and real-time updates.
+The application is user-friendly and scalable, offering seamless interaction with a responsive design.
 
 ---
 
